@@ -95,7 +95,6 @@ namespace WindowsFormsApp222.LoginForms
                 {
                     conn.Open();
 
-                    // Проверка существования email и получение user_id, login
                     string checkEmailQuery = "SELECT user_id, login FROM users WHERE email = @email";
                     using (MySqlCommand checkCmd = new MySqlCommand(checkEmailQuery, conn))
                     {
@@ -112,14 +111,11 @@ namespace WindowsFormsApp222.LoginForms
                             string login = reader.GetString("login");
                             reader.Close();
 
-                            // Генерация нового пароля (8 символов)
                             string newPassword = GenerateRandomPassword(8);
 
-                            // Хеширование пароля
                             string salt = BCrypt.Net.BCrypt.GenerateSalt();
                             string hashedPassword = BCrypt.Net.BCrypt.HashPassword(newPassword, salt);
 
-                            // Обновление пароля в users_pwd
                             string updatePwdQuery = "UPDATE users_pwd SET salt = @salt, hashed_password = @hashedPassword WHERE user_ID = @userId";
                             using (MySqlCommand updateCmd = new MySqlCommand(updatePwdQuery, conn))
                             {
@@ -129,9 +125,8 @@ namespace WindowsFormsApp222.LoginForms
                                 updateCmd.ExecuteNonQuery();
                             }
 
-                            // Отправка email
                             SendEmail(email, login, newPassword);
-                            MessageBox.Show("Новый пароль отправлен на ваш email.");
+                            //MessageBox.Show("Новый пароль отправлен на ваш email.");
                             this.Close();
                         }
                     }
@@ -159,8 +154,8 @@ namespace WindowsFormsApp222.LoginForms
         {
             string smtpHost = "smtp.gmail.com";
             int smtpPort = 587;
-            string smtpUsername = "tutameer@gmail.com"; // Замените на ваш email
-            string smtpPassword = "gdzc clvv jrbe aaov";// Замените на ваш пароль
+            string smtpUsername = "tutameer@gmail.com"; 
+            string smtpPassword = "gdzc clvv jrbe aaov";
 
             MailMessage mail = new MailMessage();
             mail.From = new MailAddress(smtpUsername);
