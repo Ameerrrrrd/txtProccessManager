@@ -760,7 +760,7 @@ namespace WindowsFormsApp222
         // Создание чекбоксов работы с одним файлом
         private void CreateWorkWith1FileCheckboxes()
         {
-            string[] workWith1FileOptions = { "Разделение текстовика на части", "Изменение регистра почты" };
+            string[] workWith1FileOptions = { "Разделение текстовика на части"};
             for (int i = 0; i < workWith1FileOptions.Length; i++)
             {
                 CheckBox cb = new CheckBox
