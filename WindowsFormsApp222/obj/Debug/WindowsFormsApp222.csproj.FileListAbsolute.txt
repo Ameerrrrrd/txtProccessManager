@@ -1,0 +1,72 @@
+D:\ggg\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.exe.config
+D:\ggg\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.exe
+D:\ggg\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.pdb
+D:\ggg\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.AssemblyReference.cache
+D:\ggg\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.Form1.resources
+D:\ggg\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.Properties.Resources.resources
+D:\ggg\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.GenerateResource.cache
+D:\ggg\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.CoreCompileInputs.cache
+D:\ggg\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.exe
+D:\ggg\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.pdb
+D:\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.exe.config
+D:\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.exe
+D:\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.pdb
+D:\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.AssemblyReference.cache
+D:\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.Form1.resources
+D:\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.Properties.Resources.resources
+D:\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.GenerateResource.cache
+D:\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.exe
+D:\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.pdb
+C:\Users\Desktop\Saved Games\Desktop\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.exe.config
+C:\Users\Desktop\Saved Games\Desktop\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.exe
+C:\Users\Desktop\Saved Games\Desktop\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.pdb
+C:\Users\Desktop\Saved Games\Desktop\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.AssemblyReference.cache
+C:\Users\Desktop\Saved Games\Desktop\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.Form1.resources
+C:\Users\Desktop\Saved Games\Desktop\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.Properties.Resources.resources
+C:\Users\Desktop\Saved Games\Desktop\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.GenerateResource.cache
+C:\Users\Desktop\Saved Games\Desktop\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Saved Games\Desktop\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.exe
+C:\Users\Desktop\Saved Games\Desktop\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.pdb
+D:\Visual Studio Applications\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.exe.config
+D:\Visual Studio Applications\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.exe
+D:\Visual Studio Applications\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.pdb
+D:\Visual Studio Applications\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.AssemblyReference.cache
+D:\Visual Studio Applications\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.Form1.resources
+D:\Visual Studio Applications\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.Properties.Resources.resources
+D:\Visual Studio Applications\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.GenerateResource.cache
+D:\Visual Studio Applications\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.CoreCompileInputs.cache
+D:\Visual Studio Applications\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.exe
+D:\Visual Studio Applications\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.pdb
+C:\Users\tutam\OneDrive\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.exe.config
+C:\Users\tutam\OneDrive\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.exe
+C:\Users\tutam\OneDrive\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.pdb
+C:\Users\tutam\OneDrive\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.AssemblyReference.cache
+C:\Users\tutam\OneDrive\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.Form1.resources
+C:\Users\tutam\OneDrive\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.Properties.Resources.resources
+C:\Users\tutam\OneDrive\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.GenerateResource.cache
+C:\Users\tutam\OneDrive\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.CoreCompileInputs.cache
+C:\Users\tutam\OneDrive\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.exe
+C:\Users\tutam\OneDrive\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.pdb
+C:\Users\tutam\OneDrive\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\System.Data.SQLite.dll
+C:\Users\tutam\OneDrive\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\System.Data.SQLite.xml
+C:\Users\tutam\OneDrive\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsF.33AE2C9A.Up2Date
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.exe.config
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.exe
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\WindowsFormsApp222.pdb
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\System.Data.SQLite.dll
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\System.Data.SQLite.xml
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.AssemblyReference.cache
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.Form1.resources
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.Properties.Resources.resources
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.GenerateResource.cache
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.csproj.CoreCompileInputs.cache
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsF.33AE2C9A.Up2Date
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.exe
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\obj\Debug\WindowsFormsApp222.pdb
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\EntityFramework.dll
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\EntityFramework.xml
+C:\Users\tutam\Desktop\WindowsFormsApp222\WindowsFormsApp222\WindowsFormsApp222\bin\Debug\EntityFramework.SqlServer.xml

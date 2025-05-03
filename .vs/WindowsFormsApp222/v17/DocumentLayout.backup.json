@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAADCD83-938F-4870-B482-C7180ED85267}|WindowsFormsApp222\\WindowsFormsApp222.csproj|c:\\users\\tutam\\desktop\\windowsformsapp222\\windowsformsapp222\\windowsformsapp222\\dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAADCD83-938F-4870-B482-C7180ED85267}|WindowsFormsApp222\\WindowsFormsApp222.csproj|solutionrelative:windowsformsapp222\\dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAADCD83-938F-4870-B482-C7180ED85267}|WindowsFormsApp222\\WindowsFormsApp222.csproj|c:\\users\\tutam\\desktop\\windowsformsapp222\\windowsformsapp222\\windowsformsapp222\\templatesforms\\createtemplateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAADCD83-938F-4870-B482-C7180ED85267}|WindowsFormsApp222\\WindowsFormsApp222.csproj|solutionrelative:windowsformsapp222\\templatesforms\\createtemplateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAADCD83-938F-4870-B482-C7180ED85267}|WindowsFormsApp222\\WindowsFormsApp222.csproj|c:\\users\\tutam\\desktop\\windowsformsapp222\\windowsformsapp222\\windowsformsapp222\\templatesforms\\templatenameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAADCD83-938F-4870-B482-C7180ED85267}|WindowsFormsApp222\\WindowsFormsApp222.csproj|solutionrelative:windowsformsapp222\\templatesforms\\templatenameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAADCD83-938F-4870-B482-C7180ED85267}|WindowsFormsApp222\\WindowsFormsApp222.csproj|C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\windowsformsapp222\\templatesforms\\formtemplates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAADCD83-938F-4870-B482-C7180ED85267}|WindowsFormsApp222\\WindowsFormsApp222.csproj|solutionrelative:windowsformsapp222\\templatesforms\\formtemplates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAADCD83-938F-4870-B482-C7180ED85267}|WindowsFormsApp222\\WindowsFormsApp222.csproj|c:\\users\\tutam\\desktop\\windowsformsapp222\\windowsformsapp222\\windowsformsapp222\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAADCD83-938F-4870-B482-C7180ED85267}|WindowsFormsApp222\\WindowsFormsApp222.csproj|solutionrelative:windowsformsapp222\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAADCD83-938F-4870-B482-C7180ED85267}|WindowsFormsApp222\\WindowsFormsApp222.csproj|C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\windowsformsapp222\\mainpage\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAADCD83-938F-4870-B482-C7180ED85267}|WindowsFormsApp222\\WindowsFormsApp222.csproj|solutionrelative:windowsformsapp222\\mainpage\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAADCD83-938F-4870-B482-C7180ED85267}|WindowsFormsApp222\\WindowsFormsApp222.csproj|C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\windowsformsapp222\\templatesforms\\formtemplates.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAADCD83-938F-4870-B482-C7180ED85267}|WindowsFormsApp222\\WindowsFormsApp222.csproj|solutionrelative:windowsformsapp222\\templatesforms\\formtemplates.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAADCD83-938F-4870-B482-C7180ED85267}|WindowsFormsApp222\\WindowsFormsApp222.csproj|C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\windowsformsapp222\\templatesforms\\createtemplateform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAADCD83-938F-4870-B482-C7180ED85267}|WindowsFormsApp222\\WindowsFormsApp222.csproj|solutionrelative:windowsformsapp222\\templatesforms\\createtemplateform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAADCD83-938F-4870-B482-C7180ED85267}|WindowsFormsApp222\\WindowsFormsApp222.csproj|C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\windowsformsapp222\\mainpage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAADCD83-938F-4870-B482-C7180ED85267}|WindowsFormsApp222\\WindowsFormsApp222.csproj|solutionrelative:windowsformsapp222\\mainpage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\WindowsFormsApp222\\MainPage\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp222\\MainPage\\Form1.cs",
+              "ToolTip": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\WindowsFormsApp222\\MainPage\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp222\\MainPage\\Form1.cs",
+              "ViewState": "AgIAACkBAAAAAAAAAAAQwEECAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:16:45.02Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\WindowsFormsApp222\\MainPage\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp222\\MainPage\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\WindowsFormsApp222\\MainPage\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp222\\MainPage\\Form1.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwMoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T10:55:15.356Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBInit.cs",
+              "DocumentMoniker": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\WindowsFormsApp222\\DBInit.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp222\\DBInit.cs",
+              "ToolTip": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\WindowsFormsApp222\\DBInit.cs",
+              "RelativeToolTip": "WindowsFormsApp222\\DBInit.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:35:25.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemplateNameForm.cs",
+              "DocumentMoniker": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\WindowsFormsApp222\\TemplatesForms\\TemplateNameForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp222\\TemplatesForms\\TemplateNameForm.cs",
+              "ToolTip": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\WindowsFormsApp222\\TemplatesForms\\TemplateNameForm.cs",
+              "RelativeToolTip": "WindowsFormsApp222\\TemplatesForms\\TemplateNameForm.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:39:07.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateTemplateForm.cs",
+              "DocumentMoniker": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\WindowsFormsApp222\\TemplatesForms\\CreateTemplateForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp222\\TemplatesForms\\CreateTemplateForm.cs",
+              "ToolTip": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\WindowsFormsApp222\\TemplatesForms\\CreateTemplateForm.cs",
+              "RelativeToolTip": "WindowsFormsApp222\\TemplatesForms\\CreateTemplateForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:17:12.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateTemplateForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\WindowsFormsApp222\\TemplatesForms\\CreateTemplateForm.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp222\\TemplatesForms\\CreateTemplateForm.Designer.cs",
+              "ToolTip": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\WindowsFormsApp222\\TemplatesForms\\CreateTemplateForm.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp222\\TemplatesForms\\CreateTemplateForm.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwEQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:19:31.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormTemplates.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\WindowsFormsApp222\\TemplatesForms\\FormTemplates.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp222\\TemplatesForms\\FormTemplates.Designer.cs",
+              "ToolTip": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\WindowsFormsApp222\\TemplatesForms\\FormTemplates.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp222\\TemplatesForms\\FormTemplates.Designer.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAlwJgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:33:06.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormTemplates.cs",
+              "DocumentMoniker": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\WindowsFormsApp222\\TemplatesForms\\FormTemplates.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp222\\TemplatesForms\\FormTemplates.cs",
+              "ToolTip": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\WindowsFormsApp222\\TemplatesForms\\FormTemplates.cs",
+              "RelativeToolTip": "WindowsFormsApp222\\TemplatesForms\\FormTemplates.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAArwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:33:00.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\WindowsFormsApp222\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp222\\Program.cs",
+              "ToolTip": "C:\\Users\\tutam\\Desktop\\WindowsFormsApp222\\WindowsFormsApp222\\WindowsFormsApp222\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp222\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:20:10.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
