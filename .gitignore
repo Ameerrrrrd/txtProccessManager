@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.log
+*.sdf
+*.opensdf
+*.dbmdl
+*.pdb
+
+# Build results
+bin/
+obj/
+
+# NuGet
+packages/
