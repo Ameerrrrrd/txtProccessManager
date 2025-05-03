@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Window;
@@ -180,7 +181,15 @@ namespace WindowsFormsApp222
             var aboutHelpItem = new ToolStripMenuItem("About / Help");
             aboutHelpItem.Click += (sender, e) =>
             {
-                MessageBox.Show("This is an example of a hamburger menu.\nVersion 1.0", "About / Help");
+                try
+                {
+                    MessageBox.Show("прочитайте readme.md с инфой о приложении", "Уведомление", MessageBoxButtons.OK, MessageBoxIcon.Question);
+                    System.Diagnostics.Process.Start("https://github.com/Ameerrrrrd/txtProccessManager/tree/MySQL");
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Не удалось открыть ссылку: " + ex.Message);
+                }
             };
 
             var logoutItem = new ToolStripMenuItem("Logout");

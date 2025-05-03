@@ -2,6 +2,7 @@
 using System.Drawing;
 using System.Threading;
 using System.Windows.Forms;
+using WindowsFormsApp222.LoginForms;
 
 namespace WindowsFormsApp222
 {
@@ -39,17 +40,31 @@ namespace WindowsFormsApp222
                 Left = 20
             };
 
-            Label lblEmail = new Label { Text = "Логин/почта", Top = 70, Left = 20, Width = 100, Font = new Font("Segoe UI", 10) };
+            Label lblEmail = new Label { Text = "Логин/почта", Top = 70, Left = 20, Width = 150, Font = new Font("Segoe UI", 10) };
             txtEmail = new TextBox { Top = lblEmail.Bottom + 5, Left = 20, Width = 360, Font = new Font("Segoe UI", 10) };
 
             Label lblPassword = new Label { Text = "Пароль", Top = txtEmail.Bottom + 10, Left = 20, Width = 100, Font = new Font("Segoe UI", 10) };
             txtPassword = new TextBox { Top = lblPassword.Bottom + 5, Left = 20, Width = 360, UseSystemPasswordChar = true, Font = new Font("Segoe UI", 10) };
 
-            chkShowPassword = new CheckBox { Text = "Показать пароль", Top = txtPassword.Bottom + 5, Left = 20, Font = new Font("Segoe UI", 9) };
+            chkShowPassword = new CheckBox { Text = "Показать пароль", Top = txtPassword.Bottom + 5, Left = 20, Width = 150, Font = new Font("Segoe UI", 9) };
             chkShowPassword.CheckedChanged += (s, e) =>
             {
                 txtPassword.UseSystemPasswordChar = !chkShowPassword.Checked;
             };
+            LinkLabel lnkForgotPassword = new LinkLabel
+            {
+                Text = "Forgot password?",
+                Top = txtPassword.Bottom + 5,
+                Left = chkShowPassword.Right + 10,
+                Width = 150,
+                Font = new Font("Segoe UI", 9)
+            };
+            lnkForgotPassword.LinkClicked += (s, e) =>
+            {
+                ForgotPasswordForm forgotForm = new ForgotPasswordForm();
+                forgotForm.ShowDialog();
+            };
+            this.Controls.Add(lnkForgotPassword);
 
             btnLogin = new Button
             {
