@@ -124,6 +124,16 @@ namespace WindowsFormsApp222
             };
             btnExportXml.Click += new EventHandler(this.btnExportXml_Click);
 
+            this.Controls.Add(scrollPanel);
+
+            Button btnChart = new Button
+            {
+                Location = new System.Drawing.Point(330, 20),
+                Size = new System.Drawing.Size(300, 40),
+                Text = "Диаграмма пользователей по домену"
+            };
+            btnChart.Click += new EventHandler(this.btnChart_Click);
+
             // Add control to form
             this.Controls.Add(btnExportXml);
 
@@ -133,6 +143,7 @@ namespace WindowsFormsApp222
                 Height = 60
             };
             topPanel.Controls.Add(btnExportXml);
+            topPanel.Controls.Add(btnChart);
             this.Controls.Add(topPanel);
         }
 
@@ -345,6 +356,13 @@ namespace WindowsFormsApp222
                     LoadUsersFromDatabase();
                 }
             }
+        }
+
+        private void btnChart_Click(object sender, EventArgs e)
+        {
+            var chart = new EmailDomainChartForm();
+
+            chart.ShowDialog();
         }
     }
 }
