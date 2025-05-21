@@ -6,6 +6,21 @@ namespace WindowsFormsApp222
 {
     public class Sorting
     {
+        // По алфавиту
+        public static IEnumerable<string> SortAlphabetical(IEnumerable<string> lines)
+        {
+            var result  = lines
+                .Where(s => !string.IsNullOrWhiteSpace(s)) // убираем null и пустые строки
+                .OrderBy(s => s)
+                .GroupBy(s => s[0]) // безопасно, потому что все строки непустые
+                .SelectMany((group, index) =>
+                    index == 0
+                        ? group
+                        : new[] { "\t" }.Concat(group)
+                );
+            return result;
+        }
+
         // Сортировка по домену
         public static IEnumerable<string> SortByDomain(IEnumerable<string> lines)
         {

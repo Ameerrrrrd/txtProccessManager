@@ -525,6 +525,7 @@ namespace WindowsFormsApp222
             }
             else
             {
+                if (sortOptions.Contains("По алфавиту")) lines = Sorting.SortAlphabetical(lines);
                 if (sortOptions.Contains("По домену A-Z")) lines = Sorting.SortByDomain(lines);
                 if (sortOptions.Contains("По значению Total (100-0)")) lines = Sorting.SortByNumber(lines);
             }
@@ -564,7 +565,7 @@ namespace WindowsFormsApp222
         // Создание чекбоксов для сортировки
         private void CreateSortCheckboxes()
         {
-            string[] sortOptions = { "По домену A-Z", "По значению Total (100-0)", "Выполнить обратную сортировку" };
+            string[] sortOptions = { "По алфавиту", "По домену A-Z", "По значению Total (100-0)", "Выполнить обратную сортировку" };
             for (int i = 0; i < sortOptions.Length; i++)
             {
                 CheckBox cb = new CheckBox

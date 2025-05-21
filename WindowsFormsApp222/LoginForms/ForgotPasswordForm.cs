@@ -20,6 +20,7 @@ namespace WindowsFormsApp222.LoginForms
         Label lblEmail;
         Button btnSend;
         string connectionString = "Server=localhost;Database=lol;Port=3306;Uid=root;Pwd=root";
+        private Label labelLoader;
 
         public ForgotPasswordForm()
         {
@@ -59,6 +60,20 @@ namespace WindowsFormsApp222.LoginForms
             };
             btnSend.Click += ButtonSend_Click;
 
+            labelLoader = new Label
+            {
+                AutoSize = true,
+                Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point),
+                Location = new System.Drawing.Point(165, 120),// поменяй координаты при необходимости
+                Name = "labelLoader",
+                Size = new System.Drawing.Size(350, 75),
+                TabIndex = 1,
+                Text = "Загрузка...",
+                Visible = false
+            };
+
+            this.Controls.Add(labelLoader);
+
             this.Controls.Add(lblEmail);
             this.Controls.Add(txtEmail);
             this.Controls.Add(btnSend);
@@ -67,9 +82,9 @@ namespace WindowsFormsApp222.LoginForms
             this.KeyDown += new KeyEventHandler(ForgotPassword_KeyDown);
             this.FormClosing += ForgotPassword_FormClosing;
         }
-
-        public void ButtonSend_Click(object sender, EventArgs e)
+        private void ButtonSend_Click(object sender, EventArgs e)
         {
+            labelLoader.Visible = true;
             try
             {
                 EnterEmailSuccessfully();
@@ -78,7 +93,11 @@ namespace WindowsFormsApp222.LoginForms
             {
                 MessageBox.Show($"Ошибка: {ex.Message}");
             }
-        }    
+            finally
+            {
+                labelLoader.Visible = false;
+            }
+        }
 
         public void EnterEmailSuccessfully ()
         {

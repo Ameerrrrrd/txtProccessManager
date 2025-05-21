@@ -18,7 +18,7 @@ namespace WindowsFormsApp222
             if (Environment.OSVersion.Version.Major >= 6) SetProcessDPIAware();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AdminPanelForm());
+            Application.Run(new Form1());
         }
 
         [System.Runtime.InteropServices.DllImport("user32.dll")]
