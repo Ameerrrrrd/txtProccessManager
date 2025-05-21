@@ -6,7 +6,7 @@ using MySql.Data.MySqlClient;
 using BCrypt.Net;
 using Mysqlx.Expr;
 
-namespace WindowsFormsApp222
+namespace KP_KAZLOVSKIY
 {
     public partial class RegisterForm : Form
     {

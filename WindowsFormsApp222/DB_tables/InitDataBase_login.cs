@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp222
+namespace KP_KAZLOVSKIY
 {
     internal class InitDataBase_login
     {

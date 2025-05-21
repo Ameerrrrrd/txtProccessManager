@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp222
+namespace KP_KAZLOVSKIY
 {
     partial class AdminPanelForm
     {

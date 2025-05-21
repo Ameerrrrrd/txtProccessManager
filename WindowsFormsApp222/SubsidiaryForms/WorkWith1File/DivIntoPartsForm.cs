@@ -6,7 +6,8 @@ using System.IO;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp222
+
+namespace KP_KAZLOVSKIY
 {
 
     public partial class DivIntoPartsForm : Form

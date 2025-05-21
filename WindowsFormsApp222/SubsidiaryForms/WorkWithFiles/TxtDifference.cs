@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
-namespace WindowsFormsApp222
+namespace KP_KAZLOVSKIY
 {
     public partial class TxtDifference : Form
     {

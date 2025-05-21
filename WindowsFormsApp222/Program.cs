@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using WindowsFormsApp222.LoginForms;
+using KP_KAZLOVSKIY.LoginForms;
 //.......,mnbvcdr
-namespace WindowsFormsApp222
+namespace KP_KAZLOVSKIY
 {
     internal static class Program
     {
@@ -18,7 +18,7 @@ namespace WindowsFormsApp222
             if (Environment.OSVersion.Version.Major >= 6) SetProcessDPIAware();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new RegisterForm());
         }
 
         [System.Runtime.InteropServices.DllImport("user32.dll")]

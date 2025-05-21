@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp222
+﻿namespace KP_KAZLOVSKIY
 {
     partial class FormKeyWordDelLineContentAfter
     {

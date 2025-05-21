@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 
-namespace WindowsFormsApp222.LoginForms
+namespace KP_KAZLOVSKIY.LoginForms
 {
     public partial class ForgotPasswordForm : Form
     {

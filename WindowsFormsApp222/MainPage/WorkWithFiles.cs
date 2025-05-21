@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp222
+namespace KP_KAZLOVSKIY
 {
     internal class WorkWithFiles
     {

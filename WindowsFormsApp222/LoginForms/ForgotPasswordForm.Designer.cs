@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp222.LoginForms
+﻿namespace KP_KAZLOVSKIY.LoginForms
 {
     partial class ForgotPasswordForm
     {

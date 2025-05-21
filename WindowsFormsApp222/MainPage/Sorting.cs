@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace WindowsFormsApp222
+namespace KP_KAZLOVSKIY
 {
     public class Sorting
     {

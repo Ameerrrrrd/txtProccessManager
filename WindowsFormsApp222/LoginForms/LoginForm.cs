@@ -2,9 +2,9 @@
 using System.Drawing;
 using System.Threading;
 using System.Windows.Forms;
-using WindowsFormsApp222.LoginForms;
+using KP_KAZLOVSKIY.LoginForms;
 
-namespace WindowsFormsApp222
+namespace KP_KAZLOVSKIY
 {
     public partial class LoginForm : Form
     {

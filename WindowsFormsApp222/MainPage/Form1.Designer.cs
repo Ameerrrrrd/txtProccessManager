@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Window;
 
-namespace WindowsFormsApp222
+namespace KP_KAZLOVSKIY
 {
     partial class Form1
     {
@@ -49,7 +49,7 @@ namespace WindowsFormsApp222
                 Location = new Point(40, 10),
                 Size = new Size(25, 25),
                 BackColor = Color.Blue,
-                BackgroundImage = global::WindowsFormsApp222.Properties.Resources.explorer
+                BackgroundImage = global::KP_KAZLOVSKIY.Properties.Resources.explorer
             };
             btnOpenExplorer.Click += BtnOpenExplorer_Click;
 

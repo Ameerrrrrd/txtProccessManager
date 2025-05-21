@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WindowsFormsApp222.Properties
+namespace KP_KAZLOVSKIY.Properties
 {
 
 

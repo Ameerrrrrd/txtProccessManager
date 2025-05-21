@@ -16,7 +16,7 @@ public class Person
     public string login { get; set; }
 }
 
-namespace WindowsFormsApp222
+namespace KP_KAZLOVSKIY
 {
     public partial class AdminPanelForm : Form
     {

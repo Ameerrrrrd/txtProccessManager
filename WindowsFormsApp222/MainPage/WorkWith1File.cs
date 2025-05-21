@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsFormsApp222
+namespace KP_KAZLOVSKIY
 {
     internal class WorkWith1File
     {

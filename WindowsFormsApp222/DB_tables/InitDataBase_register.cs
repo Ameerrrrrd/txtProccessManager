@@ -8,7 +8,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp222
+namespace KP_KAZLOVSKIY
 {
 
     internal class InitDataBase_register

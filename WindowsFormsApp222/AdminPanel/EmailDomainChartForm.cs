@@ -6,7 +6,7 @@ using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
 using MySql.Data.MySqlClient;
 
-namespace WindowsFormsApp222
+namespace KP_KAZLOVSKIY
 {
     public class EmailDomainChartForm : Form
     {

@@ -4,7 +4,7 @@ using System.Windows.Forms;
 using System.Xml.Linq;
 using MySql.Data.MySqlClient;
 
-namespace WindowsFormsApp222
+namespace KP_KAZLOVSKIY
 {
     public static class InitDatabase_templates
     {
