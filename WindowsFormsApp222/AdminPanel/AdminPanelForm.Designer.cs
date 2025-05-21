@@ -1,4 +1,7 @@
-﻿namespace WindowsFormsApp222
+﻿using System;
+using System.Windows.Forms;
+
+namespace WindowsFormsApp222
 {
     partial class AdminPanelForm
     {
@@ -28,10 +31,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "admin";
         }
 
 

@@ -1,10 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Drawing;
+using System.IO;
 using System.Text;
 using System.Threading;
 using System.Windows.Forms;
+using System.Xml.Serialization;
 using MySql.Data.MySqlClient;
+
+public class Person
+{
+    public int user_id { get; set; }
+    public string email { get; set; }
+    public string login { get; set; }
+}
 
 namespace WindowsFormsApp222
 {
@@ -16,12 +26,61 @@ namespace WindowsFormsApp222
         private const int MarginSize = 10;
         private const int BlocksPerRow = 4;
 
+        private Button btnExportXml;
+
+
         private const string ConnectionString = "Server=localhost;Database=lol;Port=3306;Uid=root;Pwd=root";
+
+        private List<Person> people = new List<Person>();
 
         public AdminPanelForm()
         {
             InitializeComponents();
             LoadUsersFromDatabase();
+        }
+
+
+        private void btnExportXml_Click(object sender, EventArgs e)
+        {
+            people = LoadPeopleFromDatabase();
+
+            SaveFileDialog sfd = new SaveFileDialog();
+            sfd.Filter = "XML files (*.xml)|*.xml";
+
+            if (sfd.ShowDialog() == DialogResult.OK)
+            {
+                XmlSerializer serializer = new XmlSerializer(typeof(List<Person>), new XmlRootAttribute("People"));
+                using (FileStream fs = new FileStream(sfd.FileName, FileMode.Create))
+                {
+                    serializer.Serialize(fs, people);
+                }
+            }
+        }
+
+        private List<Person> LoadPeopleFromDatabase()
+        {
+            var result = new List<Person>();
+
+            string query = "SELECT user_id, email, login FROM users";
+
+            using (MySqlConnection conn = new MySqlConnection(ConnectionString))
+            using (MySqlCommand cmd = new MySqlCommand(query, conn))
+            {
+                conn.Open();
+                using (MySqlDataReader reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        result.Add(new Person
+                        {
+                            user_id = reader.GetInt32(0),
+                            email = reader.GetString(1),
+                            login = reader.GetString(2)
+                        });
+                    }
+                }
+            }
+                return result;
         }
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
@@ -54,6 +113,27 @@ namespace WindowsFormsApp222
             };
 
             this.Controls.Add(scrollPanel);
+
+            btnExportXml = new Button
+            {
+
+                // btnExportXml settings
+                Location = new System.Drawing.Point(20, 20),
+                Size = new System.Drawing.Size(300, 40),
+                Text = "Экспорт пользователей в XML"
+            };
+            btnExportXml.Click += new EventHandler(this.btnExportXml_Click);
+
+            // Add control to form
+            this.Controls.Add(btnExportXml);
+
+            Panel topPanel = new Panel
+            {
+                Dock = DockStyle.Top,
+                Height = 60
+            };
+            topPanel.Controls.Add(btnExportXml);
+            this.Controls.Add(topPanel);
         }
 
         private void LoadUsersFromDatabase()
@@ -93,7 +173,6 @@ namespace WindowsFormsApp222
                     }
                 }
             }
-
             RenderUserBlocks(users);
         }
 

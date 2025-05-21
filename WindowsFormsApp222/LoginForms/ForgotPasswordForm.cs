@@ -155,7 +155,7 @@ namespace WindowsFormsApp222.LoginForms
             string smtpHost = "smtp.gmail.com";
             int smtpPort = 587;
             string smtpUsername = "tutameer@gmail.com"; 
-            string smtpPassword = "gdzc clvv jrbe aaov";
+            string smtpPassword = "wrqx wcdu rvre lxhr";
 
             MailMessage mail = new MailMessage();
             mail.From = new MailAddress(smtpUsername);

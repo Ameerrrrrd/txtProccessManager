@@ -113,9 +113,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdminPanel\AdminPanelForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="AdminPanel\AdminPanelForm.cs" />
     <Compile Include="AdminPanel\AdminPanelForm.Designer.cs">
       <DependentUpon>AdminPanelForm.cs</DependentUpon>
     </Compile>
